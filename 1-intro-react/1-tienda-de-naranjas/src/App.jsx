@@ -1,13 +1,14 @@
-
+ import {Header} from "components/Header"
+ import Section from "./components/Section"
+ import Article from "./components/Article"
+ import Footer from "./components/Footer"
 function App() {
   return(
     <div>
-      <header>
-        <nav>Menu de navegacion</nav>
-      </header>
-      <section>Seccion promos</section>
-      <section>Seccion tienda</section>
-      <footer> Pie de pagina</footer>
+    <Header />
+    <Section />
+    <Article />
+    <Footer />
     </div>
   )
   
