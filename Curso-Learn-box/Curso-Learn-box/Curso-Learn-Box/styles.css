@@ -1,0 +1,41 @@
+body {
+    background-color: #004D40; /* Color de fondo */
+    color: #ffffff;
+}
+
+.navbar {
+    background-color: #00695C;
+}
+
+.navbar-brand img {
+    height: 40px; /* Tamaño del logo */
+}
+
+.card {
+    background-color: #00796B;
+    color: #fff;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.footer-links {
+    color: #144d48;
+}
+
+.card-link {
+    text-decoration: none;
+    color: inherit; /* Mantiene el color de la tarjeta */
+}
+
+.card-link:hover .card {
+    background-color: #0288D1; /* Cambia el color de fondo al pasar el mouse */
+}
