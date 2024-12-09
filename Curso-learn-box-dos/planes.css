@@ -1,0 +1,54 @@
+body {
+    background-color: #f9f9f9;
+    color: #000000;
+}
+
+.bg-teal {
+    background-color: #00796B;
+}
+
+.navbar-brand img {
+    width: 40px;
+    margin-right: 10px;
+}
+
+.plan-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.plan-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.plan-card h4 {
+    color: #00796B;
+}
+
+footer {
+    background-color: #004f4d;
+    color: white;
+}
+
+footer h5 {
+    font-size: 1.2em;
+}
+
+footer ul {
+    padding: 0;
+    list-style: none;
+}
+
+footer ul li {
+    font-size: 0.9em;
+}
+
+footer ul li:hover {
+    text-decoration: underline;
+}
+
+.footer-text {
+    font-size: 0.85em;
+}

@@ -1,0 +1,39 @@
+body {
+    background-color: #ffffff; /* Fondo blanco */
+    color: #000; /* Texto negro */
+}
+
+.navbar {
+    background-color: #00ac98; /* Navbar verde */
+}
+
+.navbar-brand img {
+    height: 40px; /* Ajuste del logo */
+}
+
+.sidebar {
+    background-color: #004D40; /* Fondo verde oscuro */
+    color: white;
+    min-height: 100vh;
+}
+
+.sidebar .nav-link {
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.sidebar .nav-link.active,
+.sidebar .nav-link:hover {
+    background-color: #00796B;
+    color: white;
+}
+
+footer {
+    background-color: #00695C;
+    color: white;
+}
+
+footer p {
+    margin: 0;
+}

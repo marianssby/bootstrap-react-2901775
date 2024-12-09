@@ -1,0 +1,37 @@
+body {
+    background-color: #e8f5f5;
+  }
+  .navbar-custom {
+    background-color: #007f7f;
+    color: white;
+  }
+  .navbar-custom .navbar-brand img {
+    max-height: 50px;
+  }
+  .navbar-custom .form-control {
+    max-width: 300px;
+    border-radius: 20px;
+  }
+  .navbar-custom .nav-link {
+    color: white;
+  }
+  .navbar-custom .nav-link:hover {
+    color: #b2dfdb;
+  }
+  .navbar-custom .profile-icon {
+    max-height: 40px;
+    border-radius: 50%;
+  }
+  .card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  footer {
+    background-color: #004d4d;
+    color: white;
+  }
+  footer a {
+    color: #b2dfdb;
+    text-decoration: none;
+  }

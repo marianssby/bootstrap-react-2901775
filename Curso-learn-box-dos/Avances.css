@@ -1,0 +1,103 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Navbar */
+  .navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #004d4d;
+    color: white;
+  }
+  
+  .navbar-left .logo {
+    height: 40px;
+  }
+  
+  .navbar-center {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .search-bar {
+    width: 60%;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .navbar-right nav {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .navbar-right a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+
+  
+  /* Main Content */
+  .container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  h2, h3 {
+    text-align: center;
+    color: #004d4d;
+  }
+  
+  hr {
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+  }
+  
+  /* Progress Bars */
+  .mooc {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .progress-bar {
+    flex-grow: 1;
+    height: 10px;
+    margin: 0 10px;
+    background-color: #ccc;
+    border-radius: 5px;
+  }
+  
+  .progress-fill {
+    height: 100%;
+    background-color: #006666;
+  }
+  
+  /* Footer */
+  .footer-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #004d4d;
+    color: white;
+  }
+  
+  .footer-container h4 {
+    margin-bottom: 10px;
+  }
+  
+  .footer-container p {
+    margin: 5px 0;
+  }
+  
