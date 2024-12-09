@@ -1,0 +1,58 @@
+.hero-section {
+    position: relative;
+    height: 500px;
+    overflow: hidden;
+}
+
+.hero-section img {
+    object-fit: cover;
+    height: 100%;
+}
+
+.hero-content {
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+.courses-section h2 {
+    color: #00695C;
+}
+
+.card {
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+/* Sección "Compra tu Plan" */
+.plans-section {
+    background-color: #00d4b5; /* Color más claro */
+    color: #212529; /* Texto oscuro para mejor contraste */
+}
+
+.plans-section .btn-outline-dark {
+    color: #212529;
+    border-color: #212529;
+}
+
+.plans-section .btn-outline-dark:hover {
+    background-color: #212529;
+    color: #ffffff;
+}
+
+.plans-section .btn-outline-secondary {
+    color: #6c757d;
+    border-color: #6c757d;
+}
+
+/* Footer */
+footer {
+    background-color: #439e93; /* Fondo ligeramente más claro */
+    color: #f8f9fa; /* Texto claro */
+}
+
+footer p {
+    margin: 0;
+}
