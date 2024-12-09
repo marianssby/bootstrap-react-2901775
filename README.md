@@ -74,4 +74,18 @@ Si tienes alguna pregunta o necesitas soporte:
 - Correo electrónico: Mariaramosc215@gmail.com 
 
 📚 Mockups
-Inicio de Sesion https://github.com/marianssby/bootstrap-react-2901775/blob/main/Curso-learn-box-dos/Inicio-de-sesion.html
+- [Inicio de sesión](https://github.com/marianssby/bootstrap-react-2901775/blob/main/Curso-learn-box-dos/Inicio-de-sesion.css)
+- [Registrarse](#)
+- [Home](#)
+- [Moocs](#)
+- [Mis Moocs](#)
+- [Nosotros](#)
+- [Videos disponibles](#)
+- [Suscripciones](#)
+- [Configuración de perfil](#)
+- [Primer módulo](#)
+- [Enfoque](#)
+- [Documentación disponible](#)
+- [Documentación del MOOC](#)
+- [Avances](#)
+- [Suscripciones](#)
